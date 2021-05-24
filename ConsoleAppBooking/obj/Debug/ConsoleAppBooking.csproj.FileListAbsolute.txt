@@ -1,0 +1,7 @@
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\bin\Debug\ConsoleAppBooking.exe.config
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\bin\Debug\ConsoleAppBooking.exe
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\bin\Debug\ConsoleAppBooking.pdb
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\obj\Debug\ConsoleAppBooking.csproj.CoreCompileInputs.cache
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\obj\Debug\ConsoleAppBooking.exe
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\obj\Debug\ConsoleAppBooking.pdb
+D:\csharp-practice\ConsoleAppBooking\ConsoleAppBooking\obj\Debug\ConsoleAppBooking.csprojAssemblyReference.cache
